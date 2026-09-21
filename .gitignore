@@ -33,6 +33,7 @@ google-services.json
 # Android Profiling
 *.hprof
 
+# API data
 .env
 .env.*
 node_modules/
