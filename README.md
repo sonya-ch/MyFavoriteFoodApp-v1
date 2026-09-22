@@ -4,14 +4,14 @@
 ## Description
 
 ## Technologies
--React Native
--TypeScripts
--Android Emulator
--Expo
--Neon
--PostgreSQL
--Postman API
--Clerk
+- React Native
+- TypeScripts
+- Android Emulator
+- Expo
+- Neon
+- PostgreSQL
+- Postman API
+- Clerk
 
 ## How to Run
 -npm install
