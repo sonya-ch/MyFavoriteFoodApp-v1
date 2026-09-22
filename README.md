@@ -14,5 +14,17 @@
 - Clerk
 
 ## How to Run
--npm install
--npm expo start
+- npm install
+- npm expo start
+
+## What was customized beyond the tutorial
+- Design (//design images//)
+
+## YouTube Links
+
+## LinkedIn Posts
+
+## Screenshots
+
+---
+## Future Plan
