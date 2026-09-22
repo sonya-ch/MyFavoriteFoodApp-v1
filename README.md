@@ -1,11 +1,14 @@
-# Project Name: MyFavoriteFoodApp
-# BLA1 
+# Project: MyFavoriteFoodApp
+# Name: Saranya Chotsiri
+# Course: CSC-6530-1 | Mobile Application Design and Development I
+# Instructor: Dr Victor Govindaswamy
+# Start Date: 9/15/2026
 
 ## Description
 
 ## Technologies
 - React Native
-- TypeScripts
+- TypeScript
 - Android Emulator
 - Expo
 - Neon
